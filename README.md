@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm gittiver</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h3 align="center">A passionate embedded developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gittiver" alt="gittiver" /> </p>
 
